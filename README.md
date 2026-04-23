@@ -1,4 +1,4 @@
-## Hi there 👋
+currently developing `m0h1t.dev`
 
 <!--
 **mohit-ar/mohit-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
