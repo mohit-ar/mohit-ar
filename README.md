@@ -1,8 +1,9 @@
 currently developing `m0h1t`
 
-`01001101 01101111 01101000 01101001 01110100`
 
 <!--
+`01001101 01101111 01101000 01101001 01110100`
+
 **mohit-ar/mohit-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
